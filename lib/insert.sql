@@ -32,7 +32,7 @@ INSERT INTO projects VALUES (9, "Why it's Important to Practice Coding Every Day
 INSERT INTO projects VALUES (10, "A Project With Absolutely No Meaning or Information", "Miscellanious", 1, "07/30/2020", "07/31/2020");
 
 INSERT INTO pledges VALUES (1, 400, 3, 5);
-INSERT INTO pledges VALUES (2, 400, 3, 5);
+INSERT INTO pledges VALUES (2, 100000000000000000000, 9, 18);
 INSERT INTO pledges VALUES (3, 400, 3, 5);
 INSERT INTO pledges VALUES (4, 400, 3, 5);
 INSERT INTO pledges VALUES (5, 400, 3, 5);
