@@ -14,7 +14,7 @@ INSERT INTO users VALUES ("Nick", 42);
 INSERT INTO users VALUES ("Wesley", 50);
 INSERT INTO users VALUES ("Gaby", 45);
 INSERT INTO users VALUES ("Neira", 65);
+INSERT INTO users VALUES ("Michael", 19);
 INSERT INTO users VALUES ("", 18);
-INSERT INTO users VALUES ("John", 18);
 INSERT INTO users VALUES ("John", 18);
 INSERT INTO users VALUES ("John", 18);
