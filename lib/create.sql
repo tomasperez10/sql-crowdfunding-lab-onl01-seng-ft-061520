@@ -1,3 +1,3 @@
-CREATE TALE project (
+CREATE TABLE project (
 
 );
