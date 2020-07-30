@@ -61,4 +61,3 @@ INSERT INTO pledges VALUES (1, 400, 3, 5);
 INSERT INTO pledges VALUES (1, 400, 3, 5);
 INSERT INTO pledges VALUES (1, 400, 3, 5);
 INSERT INTO pledges VALUES (1, 400, 3, 5);
-
