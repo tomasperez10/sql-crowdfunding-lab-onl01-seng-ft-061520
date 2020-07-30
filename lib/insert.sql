@@ -29,4 +29,4 @@ INSERT INTO projects VALUES (6, "What Makes People Give Up?", "Psychology", 1100
 INSERT INTO projects VALUES (7, "Why Dogs are So Silly and Cute", "Biology", 1000000000, "01/01/2021", "05/15/2021");
 INSERT INTO projects VALUES (8, "Why Coke Makes Mentos Go Crazy", "Chemistry", 10000, "02/05/2021", "03/05/2021");
 INSERT INTO projects VALUES (9, "Why it's Important to Practice Coding Every Day", "Software Engineering", 5000000000, "07/30/2020", "11/15/2020");
-INSERT INTO projects VALUES (10, "", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (10, "Why ", "Biology", 1000000, "07/30/2020", "08/30/2020");
