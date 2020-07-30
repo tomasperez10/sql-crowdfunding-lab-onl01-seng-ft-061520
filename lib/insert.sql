@@ -23,7 +23,7 @@ INSERT INTO users VALUES (20, "Sophie", 33);
 INSERT INTO projects VALUES (1, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (2, "Build-Your-Own Exercise Program", "Fitness", 500, "08/10/2020", "09/25/2020");
 INSERT INTO projects VALUES (3, "Do More People Prefer Chocolate or Vanilla?", "Psychology", 5000, "07/31/2020", "08/30/2020");
-INSERT INTO projects VALUES (4, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (4, "Finding the Secrets of Life", "Philosophy", 69, "09/11/2020", "10/30/2020");
 INSERT INTO projects VALUES (5, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (6, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (7, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
