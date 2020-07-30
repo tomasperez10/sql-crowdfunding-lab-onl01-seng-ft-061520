@@ -33,10 +33,10 @@ INSERT INTO projects VALUES (10, "A Project With Absolutely No Meaning or Inform
 
 INSERT INTO pledges VALUES (1, 400, 3, 5);
 INSERT INTO pledges VALUES (2, 100000000000000000000, 9, 18);
-INSERT INTO pledges VALUES (3, 400, 3, 5);
-INSERT INTO pledges VALUES (4, 400, 3, 5);
-INSERT INTO pledges VALUES (5, 400, 3, 5);
-INSERT INTO pledges VALUES (6, 400, 3, 5);
+INSERT INTO pledges VALUES (3, 50, 1, 10);
+INSERT INTO pledges VALUES (4, 2000, 4, 20);
+INSERT INTO pledges VALUES (5, 68, 2, 11);
+INSERT INTO pledges VALUES (6, 99, 10, 9);
 INSERT INTO pledges VALUES (7, 400, 3, 5);
 INSERT INTO pledges VALUES (8, 400, 3, 5);
 INSERT INTO pledges VALUES (9, 400, 3, 5);
