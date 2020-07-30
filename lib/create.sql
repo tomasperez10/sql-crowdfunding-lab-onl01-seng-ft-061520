@@ -9,5 +9,6 @@ CREATE TABLE project (
 
 CREATE TABLE user (
   id INTEGER PRIMARY KEY,
-  
+  name TEXT,
+  age INTEGER
 );
