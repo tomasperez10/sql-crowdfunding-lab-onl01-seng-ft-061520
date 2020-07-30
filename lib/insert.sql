@@ -20,4 +20,4 @@ INSERT INTO users VALUES (19, "Claudia", 25);
 INSERT INTO users VALUES (20, "Sophie", 33);
 
 
-INSERT INTO projects VALUES ();
+INSERT INTO projects VALUES (1, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
