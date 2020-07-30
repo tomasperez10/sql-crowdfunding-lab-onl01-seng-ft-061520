@@ -6,3 +6,7 @@ CREATE TABLE project (
   start_date TEXT,
   end_date TEXT
 );
+
+CREATE TABLE user (
+  
+);
