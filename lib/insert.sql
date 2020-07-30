@@ -25,7 +25,7 @@ INSERT INTO projects VALUES (2, "Build-Your-Own Exercise Program", "Fitness", 50
 INSERT INTO projects VALUES (3, "Do More People Prefer Chocolate or Vanilla?", "Psychology", 5000, "07/31/2020", "08/30/2020");
 INSERT INTO projects VALUES (4, "Finding the Secrets of Life", "Philosophy", 69, "09/11/2020", "10/31/2020");
 INSERT INTO projects VALUES (5, "Why are Conservatives and Liberals Different?", "Politics", 4000000, "10/05/2020", "11/04/2020");
-INSERT INTO projects VALUES (6, "What Makes People Give Up?", "Psychology", 110000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (6, "What Makes People Give Up?", "Psychology", 11000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (7, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (8, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
 INSERT INTO projects VALUES (9, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
