@@ -21,3 +21,12 @@ INSERT INTO users VALUES (20, "Sophie", 33);
 
 
 INSERT INTO projects VALUES (1, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (2, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (3, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (4, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (5, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (6, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (7, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (8, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (9, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
+INSERT INTO projects VALUES (10, "Bird Research", "Biology", 1000000, "07/30/2020", "08/30/2020");
