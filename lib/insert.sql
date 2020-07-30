@@ -18,3 +18,6 @@ INSERT INTO users VALUES (17, "Michael", 19);
 INSERT INTO users VALUES (18, "Tomas", 69);
 INSERT INTO users VALUES (19, "Claudia", 25);
 INSERT INTO users VALUES (20, "Sophie", 33);
+
+
+INSERT INTO projects VALUES ();
