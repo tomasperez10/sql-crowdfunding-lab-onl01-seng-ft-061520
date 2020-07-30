@@ -1,9 +1,9 @@
 INSERT INTO users VALUES ("John", 18);
-INSERT INTO users VALUES ("John", 18);
-INSERT INTO users VALUES ("John", 18);
-INSERT INTO users VALUES ("John", 18);
-INSERT INTO users VALUES ("John", 18);
-INSERT INTO users VALUES ("John", 18);
+INSERT INTO users VALUES ("Bob", 30);
+INSERT INTO users VALUES ("Melissa", 20);
+INSERT INTO users VALUES ("Emily", 23);
+INSERT INTO users VALUES ("Sterling", 23);
+INSERT INTO users VALUES ("Matias", 25);
 INSERT INTO users VALUES ("John", 18);
 INSERT INTO users VALUES ("John", 18);
 INSERT INTO users VALUES ("John", 18);
