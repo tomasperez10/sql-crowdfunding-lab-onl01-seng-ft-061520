@@ -30,3 +30,5 @@ INSERT INTO projects VALUES (7, "Why Dogs are So Silly and Cute", "Biology", 100
 INSERT INTO projects VALUES (8, "Why Coke Makes Mentos Go Crazy", "Chemistry", 10000, "02/05/2021", "03/05/2021");
 INSERT INTO projects VALUES (9, "Why it's Important to Practice Coding Every Day", "Software Engineering", 5000000000, "07/30/2020", "11/15/2020");
 INSERT INTO projects VALUES (10, "A Project With Absolutely No Meaning or Information", "Miscellanious", 1, "07/30/2020", "07/31/2020");
+
+INSERT INTO pledges VALUES ()
