@@ -12,3 +12,7 @@ CREATE TABLE user (
   name TEXT,
   age INTEGER
 );
+
+CREATE TABLE pledge (
+  
+);
