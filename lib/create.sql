@@ -1,3 +1,3 @@
 CREATE TABLE project (
-  
+  id INTEGER PRIMARY KEY,
 );
